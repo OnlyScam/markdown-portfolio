@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+I'm just a simple person, who likes:
+* studying new languages
+* coding
+* lime color
